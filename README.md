@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aglade7&show_icons=true&locale=en&layout=compact" alt="aglade7" height="50" /></p>
+
+<div align="center" >
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=aglade7&show_icons=true&locale=en" alt="aglade7" /></p>
+</div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aglade7&" alt="aglade7" /></p>
+
 <!--
 **AGlade7/AGlade7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
