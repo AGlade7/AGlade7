@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/aglade7/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aglade7&theme=onedark&row=1&column=6" alt="AGlade7" /></a> </p>
 
-* 🔭 I’m currently working on improving my skills
+<!-- * 🔭 I’m currently working on i -->
 
-* 🌱 I’m currently learning eveything I possibly can 
+<!-- * 🌱 I’m currently learning   -->
 
 * ⚡ Fun fact: It takes 43 muscles to frown, and only 17 muscles to smile. _So keep smiling :)_
 
